@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+databases[mysql]
+sqlalchemy
+mysqlclient
+fastapi-admin
+tortoise-orm
+aiomysql
+python-multipart
