@@ -1,2 +1,6 @@
-from .user import *
-from .todo import *
+from .user import User
+from .todo import Todo
+
+models = [
+    User, Todo
+]
